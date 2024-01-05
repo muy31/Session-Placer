@@ -1,5 +1,5 @@
 # Session-Placer
-A notebook I created to demonstrate one way to assign students, participants, or attendees to scheduled sessions by preference and without going over max session capacity.
+A notebook I created to demonstrate one way to assign students, participants, or attendees to scheduled sessions by preference and without going over max session capacity. Created for implementation by Yale Africa Innovation Sympoisum (https://www.yaleafricainnovation.org/). 
 
 ### How to run:
 1. Make sure all the innovation lab data and their schedules, are uploaded in the format shown in "Example Workshop List.
